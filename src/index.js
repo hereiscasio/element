@@ -63,7 +63,7 @@ import Collapse from '../packages/collapse/index.js';
 import CollapseItem from '../packages/collapse-item/index.js';
 import Cascader from '../packages/cascader/index.js';
 import ColorPicker from '../packages/color-picker/index.js';
-import Transfer from '../packages/transfer/index.js';
+// import Transfer from '../packages/transfer/index.js';
 import Container from '../packages/container/index.js';
 import Header from '../packages/header/index.js';
 import Aside from '../packages/aside/index.js';
@@ -145,7 +145,7 @@ const components = [
   CollapseItem,
   Cascader,
   ColorPicker,
-  Transfer,
+  // Transfer,
   Container,
   Header,
   Aside,
@@ -266,7 +266,7 @@ export default {
   CollapseItem,
   Cascader,
   ColorPicker,
-  Transfer,
+  // Transfer,
   Container,
   Header,
   Aside,
